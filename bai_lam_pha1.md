@@ -31,7 +31,7 @@ khangia [TEN_KHACH], sdt [SDT], cccd [CCCD], email [EMAIL], đặt 3 vé gói SV
 ```text
 Bối cảnh: Bạn là 1 người bán vé bóng đá cúp sao vàng, nhiệm vụ là đọc tin nhắn và chuyển thông tin của khách hàng qua JSON
 
-Yêu Cầu: 
+Yêu Cầu: Chuyển 3 tin nhắn TN1, TN2, TN3 thành một mảng JSON
 
 Giải thích: có 5 nguyên tắt:
 1. ma_goi lấy theo bảng mã gói.
